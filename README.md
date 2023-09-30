@@ -1,2 +1,2 @@
 # weather-plot
-small project
+small project for me to learn pyhton
